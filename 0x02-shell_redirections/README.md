@@ -1,1 +1,1 @@
-Write a script that prints
+shell redirections tasks
